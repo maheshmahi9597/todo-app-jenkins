@@ -1,9 +1,9 @@
 .page-header {
-  margin-top: 30px;
+  margin-top: 70px;
 }
 
 .fa-trash-alt {
-  color: yellow;
+  color: blue;
   float: right;
   cursor: pointer;
 }
@@ -14,5 +14,5 @@
 
 .todo-status-checkbox {
   cursor: pointer;
-  margin-right: 10px;
+  margin-right: 50px;
 }
