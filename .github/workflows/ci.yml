@@ -12,5 +12,5 @@ jobs:
       - name: Build and push the Docker image
         run: |
           docker login -u mahimani --password mahesh123
-          docker build -t mahimani/todo-app-project:latest .
-          docker push mahimani/todo-app-project:latest
+          docker build -t mahimani/todo-app-project:v1 .
+          docker push mahimani/todo-app-project:v1
