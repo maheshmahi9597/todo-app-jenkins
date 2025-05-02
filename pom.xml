@@ -1,6 +1,10 @@
 <project>
-  <properties>
-    <sonar.projectKey>todo-app</sonar.projectKey>
-    <sonar.host.url>=http://localhost:9000</sonar.host.url>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>todo-game</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <properties>
+        <sonar.language>js</sonar.language>
     </properties>
 </project>
