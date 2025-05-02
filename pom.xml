@@ -1,10 +1,4 @@
-<project>
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>com.example</groupId>
-    <artifactId>Todo-app</artifactId>
-    <version>1.0</version>
-    <packaging>pom</packaging>
-    <properties>
-        <sonar.language>js</sonar.language>
+<properties>
+    <sonar.language>js</sonar.language>
+    <sonar.host.url>http://localhost:9000</sonar.host.url>
     </properties>
-</project>
