@@ -6,5 +6,6 @@
     <packaging>pom</packaging>
     <properties>
         <sonar.language>js</sonar.language>
+        <sonar.host.url>http://localhost:9000</sonar.host.url>
     </properties>
 </project>
